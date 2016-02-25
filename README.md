@@ -1,12 +1,12 @@
 # RotateBG
 Rotate and cross fade background images with this simple jQuery plugin.
 
-Details here: 
-http://blog.geneticcoder.com/2015/12/09/rotate-and-cross-fade-background-images-with-jquery-css-background-opacity-trick/
+*   [Details Here](http://blog.geneticcoder.com/2015/12/09/rotate-and-cross-fade-background-images-with-jquery-css-background-opacity-trick/)
+*   [Live Demo Here](http://www.geneticcoder.com)
 
-Written by: Robert Parham
-
-Released under: WTFPL
+**By:** Robert Parham | 
+**License:** wtfpl.net WTFPL | 
+**Version:** 1
 
 Basic Usage:
 
